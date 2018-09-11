@@ -1,2 +1,11 @@
-# Interview-Questions-Collection
-Interview Questions for Software Developers
+# Коллекция вопросов с различных собеседований
+
+### Содерание
+
+1. [C/C++](ru/c-and-cplusplus.md)
+2. Структуры данных
+3. Математика
+  * Линейная алгебра
+  * Теория вероятностей
+  * Математическая статистика
+  
